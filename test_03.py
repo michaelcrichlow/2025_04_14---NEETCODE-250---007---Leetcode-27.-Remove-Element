@@ -21,7 +21,7 @@ def removeElement_00(nums: list[int], val: int) -> int:
     return res
 
 
-# Solution 02. Beats  100%
+# Solution 02. Beats 100%
 # NOTE: Again, this is a case of doing everything at the same time. Not doing a, then b, then c
 # But rather abc (all together) while iterating through the array ONCE.
 # I don't really think like this, but hopefully it will get better with practice and time. 
